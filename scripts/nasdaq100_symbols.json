@@ -1,0 +1,15 @@
+{
+  "description": "Nasdaq 100 constituent stocks as of early 2026",
+  "groups": {
+    "group_1": ["AAPL", "ABNB", "ADBE", "ADI", "ADP", "ADSK", "AEP", "AMAT", "AMGN", "AMZN"],
+    "group_2": ["ANSS", "APP", "ARM", "ASML", "AVGO", "AZN", "BKNG", "BKR", "CCEP", "CDNS"],
+    "group_3": ["CDW", "CEG", "CHTR", "CMCSA", "COIN", "COST", "CPRT", "CRWD", "CSGP", "CSCO"],
+    "group_4": ["CTAS", "CTSH", "DASH", "DDOG", "DLTR", "DXCM", "EA", "EXC", "FANG", "FAST"],
+    "group_5": ["FTNT", "GEHC", "GFS", "GILD", "GOOG", "GOOGL", "HON", "IDXX", "ILMN", "INTC"],
+    "group_6": ["INTU", "ISRG", "KDP", "KHC", "KLAC", "LIN", "LRCX", "LULU", "MAR", "MCHP"],
+    "group_7": ["MDB", "MDLZ", "MELI", "META", "MNST", "MRNA", "MRVL", "MSFT", "MU", "NFLX"],
+    "group_8": ["NVDA", "NXPI", "ODFL", "ON", "ORLY", "PANW", "PAYX", "PDD", "PEP", "PYPL"],
+    "group_9": ["QCOM", "REGN", "ROP", "ROST", "SBUX", "SMCI", "SNPS", "TEAM", "TMUS", "TSLA"],
+    "group_10": ["TTD", "TTWO", "TXN", "VRSK", "VRTX", "WBD", "WDAY", "XEL", "ZS", "MSTR"]
+  }
+}

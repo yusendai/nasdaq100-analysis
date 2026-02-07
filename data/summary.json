@@ -1,0 +1,1903 @@
+{
+  "stocks": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "sector": "Technology",
+      "ytdReturn": 0.0262,
+      "currentPrice": 278.12,
+      "rsi": 69.0258,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.008,
+      "marketCap": 4087787028480
+    },
+    {
+      "symbol": "ABNB",
+      "name": "Airbnb, Inc.",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": -0.0814,
+      "currentPrice": 122.18,
+      "rsi": 35.5221,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0075,
+      "marketCap": 74802954240
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.1948,
+      "currentPrice": 268.38,
+      "rsi": 26.7453,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.0037,
+      "marketCap": 112343867392
+    },
+    {
+      "symbol": "ADI",
+      "name": "Analog Devices, Inc.",
+      "sector": "Technology",
+      "ytdReturn": 0.1706,
+      "currentPrice": 320.45,
+      "rsi": 65.6012,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": -0.0052,
+      "marketCap": 156909666304
+    },
+    {
+      "symbol": "ADP",
+      "name": "Automatic Data Processing, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.0851,
+      "currentPrice": 231.36,
+      "rsi": 23.6085,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.0112,
+      "marketCap": 93573259264
+    },
+    {
+      "symbol": "ADSK",
+      "name": "Autodesk, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.1616,
+      "currentPrice": 240.4,
+      "rsi": 30.4534,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0098,
+      "marketCap": 51205197824
+    },
+    {
+      "symbol": "AEP",
+      "name": "American Electric Power Company, Inc.",
+      "sector": "Utilities",
+      "ytdReturn": 0.0431,
+      "currentPrice": 120.8,
+      "rsi": 60.3076,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0016,
+      "marketCap": 64660086784
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "sector": "Technology",
+      "ytdReturn": 0.1995,
+      "currentPrice": 322.51,
+      "rsi": 56.6234,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0609,
+      "marketCap": 255983124480
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "sector": "Healthcare",
+      "ytdReturn": 0.173,
+      "currentPrice": 384.32,
+      "rsi": 75.5549,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0449,
+      "marketCap": 207148482560
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": -0.0714,
+      "currentPrice": 210.32,
+      "rsi": 28.6339,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.0555,
+      "marketCap": 2257768677376
+    },
+    {
+      "symbol": "APP",
+      "name": "AppLovin Corporation",
+      "sector": "Communication Services",
+      "ytdReturn": -0.3422,
+      "currentPrice": 406.72,
+      "rsi": 29.8067,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0839,
+      "marketCap": 137573007360
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings plc",
+      "sector": "Technology",
+      "ytdReturn": 0.0782,
+      "currentPrice": 123.7,
+      "rsi": 62.6278,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.1156,
+      "marketCap": 131369222144
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding N.V.",
+      "sector": "Technology",
+      "ytdReturn": 0.2142,
+      "currentPrice": 1413.01,
+      "rsi": 61.1563,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0466,
+      "marketCap": 548456562688
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.0423,
+      "currentPrice": 332.92,
+      "rsi": 49.3612,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0722,
+      "marketCap": 1578464837632
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "sector": "Healthcare",
+      "ytdReturn": 0.0567,
+      "currentPrice": 193.03,
+      "rsi": 58.4233,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0314,
+      "marketCap": 299251236864
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": -0.1627,
+      "currentPrice": 4457.1699,
+      "rsi": 25.1929,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0031,
+      "marketCap": 144456368128
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes Company",
+      "sector": "Energy",
+      "ytdReturn": 0.2499,
+      "currentPrice": 58.92,
+      "rsi": 70.3735,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0272,
+      "marketCap": 58226892800
+    },
+    {
+      "symbol": "CCEP",
+      "name": "Coca-Cola Europacific Partners PLC",
+      "sector": "Consumer Defensive",
+      "ytdReturn": 0.106,
+      "currentPrice": 97.56,
+      "rsi": 78.7146,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0171,
+      "marketCap": 43761565696
+    },
+    {
+      "symbol": "CDNS",
+      "name": "Cadence Design Systems, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.0866,
+      "currentPrice": 283.52,
+      "rsi": 38.2169,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0495,
+      "marketCap": 77256359936
+    },
+    {
+      "symbol": "CDW",
+      "name": "CDW Corporation",
+      "sector": "Technology",
+      "ytdReturn": 0.071,
+      "currentPrice": 142.62,
+      "rsi": 66.244,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0131,
+      "marketCap": 18691883008
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy Corporation",
+      "sector": "Utilities",
+      "ytdReturn": -0.2862,
+      "currentPrice": 261.42,
+      "rsi": 31.5249,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0581,
+      "marketCap": 94709874688
+    },
+    {
+      "symbol": "CHTR",
+      "name": "Charter Communications, Inc.",
+      "sector": "Communication Services",
+      "ytdReturn": 0.1045,
+      "currentPrice": 231.14,
+      "rsi": 69.6457,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.034,
+      "marketCap": 29911681024
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Corporation",
+      "sector": "Communication Services",
+      "ytdReturn": 0.1464,
+      "currentPrice": 31.37,
+      "rsi": 73.1793,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0169,
+      "marketCap": 114308972544
+    },
+    {
+      "symbol": "COIN",
+      "name": "Coinbase Global, Inc.",
+      "sector": "Financial Services",
+      "ytdReturn": -0.3019,
+      "currentPrice": 165.12,
+      "rsi": 28.3561,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.13,
+      "marketCap": 44525862912
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "sector": "Consumer Defensive",
+      "ytdReturn": 0.1732,
+      "currentPrice": 1001.16,
+      "rsi": 70.6182,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.012,
+      "marketCap": 444472688640
+    },
+    {
+      "symbol": "CPRT",
+      "name": "Copart, Inc.",
+      "sector": "Industrials",
+      "ytdReturn": 0.0686,
+      "currentPrice": 40.36,
+      "rsi": 51.9391,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.012,
+      "marketCap": 39069192192
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike Holdings, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.128,
+      "currentPrice": 395.5,
+      "rsi": 31.4681,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0486,
+      "marketCap": 99704930304
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "sector": "Technology",
+      "ytdReturn": 0.1155,
+      "currentPrice": 84.82,
+      "rsi": 72.4486,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0299,
+      "marketCap": 335131836416
+    },
+    {
+      "symbol": "CSGP",
+      "name": "CoStar Group, Inc.",
+      "sector": "Real Estate",
+      "ytdReturn": -0.2346,
+      "currentPrice": 50.28,
+      "rsi": 23.7223,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.0139,
+      "marketCap": 21309808640
+    },
+    {
+      "symbol": "CTAS",
+      "name": "Cintas Corporation",
+      "sector": "Industrials",
+      "ytdReturn": 0.0594,
+      "currentPrice": 195.87,
+      "rsi": 61.7492,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0091,
+      "marketCap": 78713626624
+    },
+    {
+      "symbol": "CTSH",
+      "name": "Cognizant Technology Solutions Corporation",
+      "sector": "Technology",
+      "ytdReturn": -0.0517,
+      "currentPrice": 77.08,
+      "rsi": 37.3616,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0031,
+      "marketCap": 37202391040
+    },
+    {
+      "symbol": "DASH",
+      "name": "DoorDash, Inc.",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": -0.1698,
+      "currentPrice": 182.47,
+      "rsi": 23.3199,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.0076,
+      "marketCap": 78644305920
+    },
+    {
+      "symbol": "DDOG",
+      "name": "Datadog, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.1651,
+      "currentPrice": 111.69,
+      "rsi": 34.9914,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0465,
+      "marketCap": 39166418944
+    },
+    {
+      "symbol": "DLTR",
+      "name": "Dollar Tree, Inc.",
+      "sector": "Consumer Defensive",
+      "ytdReturn": -0.0303,
+      "currentPrice": 123.83,
+      "rsi": 48.928,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0354,
+      "marketCap": 25257338880
+    },
+    {
+      "symbol": "DXCM",
+      "name": "DexCom, Inc.",
+      "sector": "Healthcare",
+      "ytdReturn": 0.0515,
+      "currentPrice": 69.97,
+      "rsi": 47.5233,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0011,
+      "marketCap": 27439104000
+    },
+    {
+      "symbol": "EA",
+      "name": "Electronic Arts Inc.",
+      "sector": "Communication Services",
+      "ytdReturn": -0.0216,
+      "currentPrice": 200.0,
+      "rsi": 36.9013,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0105,
+      "marketCap": 50050744320
+    },
+    {
+      "symbol": "EXC",
+      "name": "Exelon Corporation",
+      "sector": "Utilities",
+      "ytdReturn": 0.0093,
+      "currentPrice": 44.33,
+      "rsi": 51.5524,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0061,
+      "marketCap": 44772737024
+    },
+    {
+      "symbol": "FANG",
+      "name": "Diamondback Energy, Inc.",
+      "sector": "Energy",
+      "ytdReturn": 0.0958,
+      "currentPrice": 166.93,
+      "rsi": 63.1791,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.013,
+      "marketCap": 48323915776
+    },
+    {
+      "symbol": "FAST",
+      "name": "Fastenal Company",
+      "sector": "Industrials",
+      "ytdReturn": 0.1868,
+      "currentPrice": 47.73,
+      "rsi": 70.8978,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0085,
+      "marketCap": 54802591744
+    },
+    {
+      "symbol": "FTNT",
+      "name": "Fortinet, Inc.",
+      "sector": "Technology",
+      "ytdReturn": 0.0627,
+      "currentPrice": 82.76,
+      "rsi": 57.4633,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0485,
+      "marketCap": 63416180736
+    },
+    {
+      "symbol": "GEHC",
+      "name": "GE HealthCare Technologies Inc.",
+      "sector": "Healthcare",
+      "ytdReturn": -0.0258,
+      "currentPrice": 80.65,
+      "rsi": 47.4956,
+      "macdSignal": "bullish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.0202,
+      "marketCap": 36756217856
+    },
+    {
+      "symbol": "GFS",
+      "name": "GlobalFoundries Inc.",
+      "sector": "Technology",
+      "ytdReturn": 0.1638,
+      "currentPrice": 42.91,
+      "rsi": 54.7992,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0474,
+      "marketCap": 23844302848
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "sector": "Healthcare",
+      "ytdReturn": 0.2541,
+      "currentPrice": 152.5,
+      "rsi": 82.194,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.021,
+      "marketCap": 189223059456
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "ytdReturn": 0.0247,
+      "currentPrice": 323.1,
+      "rsi": 44.5757,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": -0.0248,
+      "marketCap": 3908540825600
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "ytdReturn": 0.0245,
+      "currentPrice": 322.86,
+      "rsi": 44.7209,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": -0.0253,
+      "marketCap": 3905637318656
+    },
+    {
+      "symbol": "HON",
+      "name": "Honeywell International Inc.",
+      "sector": "Industrials",
+      "ytdReturn": 0.217,
+      "currentPrice": 238.38,
+      "rsi": 76.8189,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0194,
+      "marketCap": 160637059072
+    },
+    {
+      "symbol": "IDXX",
+      "name": "IDEXX Laboratories, Inc.",
+      "sector": "Healthcare",
+      "ytdReturn": -0.0379,
+      "currentPrice": 644.61,
+      "rsi": 33.5942,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0016,
+      "marketCap": 51571826688
+    },
+    {
+      "symbol": "ILMN",
+      "name": "Illumina, Inc.",
+      "sector": "Healthcare",
+      "ytdReturn": -0.1089,
+      "currentPrice": 119.72,
+      "rsi": 27.9395,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.104,
+      "marketCap": 18400964608
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "sector": "Technology",
+      "ytdReturn": 0.2847,
+      "currentPrice": 50.59,
+      "rsi": 59.6543,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0487,
+      "marketCap": 252706078720
+    },
+    {
+      "symbol": "INTU",
+      "name": "Intuit Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.2937,
+      "currentPrice": 443.77,
+      "rsi": 23.9486,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0204,
+      "marketCap": 123545567232
+    },
+    {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical, Inc.",
+      "sector": "Healthcare",
+      "ytdReturn": -0.1314,
+      "currentPrice": 488.15,
+      "rsi": 29.4373,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0248,
+      "marketCap": 173356826624
+    },
+    {
+      "symbol": "KDP",
+      "name": "Keurig Dr Pepper Inc.",
+      "sector": "Consumer Defensive",
+      "ytdReturn": 0.0245,
+      "currentPrice": 28.41,
+      "rsi": 58.1434,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0143,
+      "marketCap": 38597349376
+    },
+    {
+      "symbol": "KHC",
+      "name": "The Kraft Heinz Company",
+      "sector": "Consumer Defensive",
+      "ytdReturn": 0.0103,
+      "currentPrice": 24.64,
+      "rsi": 59.2025,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.008,
+      "marketCap": 29165273088
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corporation",
+      "sector": "Technology",
+      "ytdReturn": 0.1322,
+      "currentPrice": 1442.95,
+      "rsi": 51.757,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0841,
+      "marketCap": 189592567808
+    },
+    {
+      "symbol": "LIN",
+      "name": "Linde plc",
+      "sector": "Basic Materials",
+      "ytdReturn": 0.0446,
+      "currentPrice": 448.24,
+      "rsi": 51.4993,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": -0.0249,
+      "marketCap": 210184011776
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "sector": "Technology",
+      "ytdReturn": 0.2483,
+      "currentPrice": 231.01,
+      "rsi": 57.9547,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.083,
+      "marketCap": 290155462656
+    },
+    {
+      "symbol": "LULU",
+      "name": "lululemon athletica inc.",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": -0.1801,
+      "currentPrice": 172.85,
+      "rsi": 37.7692,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0162,
+      "marketCap": 20498137088
+    },
+    {
+      "symbol": "MAR",
+      "name": "Marriott International, Inc.",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": 0.0633,
+      "currentPrice": 333.24,
+      "rsi": 64.5959,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0208,
+      "marketCap": 90460602368
+    },
+    {
+      "symbol": "MCHP",
+      "name": "Microchip Technology Incorporated",
+      "sector": "Technology",
+      "ytdReturn": 0.1688,
+      "currentPrice": 76.01,
+      "rsi": 55.1467,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": -0.026,
+      "marketCap": 41131708416
+    },
+    {
+      "symbol": "MDB",
+      "name": "MongoDB, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.1384,
+      "currentPrice": 344.35,
+      "rsi": 36.9926,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0547,
+      "marketCap": 28027252736
+    },
+    {
+      "symbol": "MDLZ",
+      "name": "Mondelez International, Inc.",
+      "sector": "Consumer Defensive",
+      "ytdReturn": 0.1187,
+      "currentPrice": 60.02,
+      "rsi": 66.9523,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": -0.0048,
+      "marketCap": 77447315456
+    },
+    {
+      "symbol": "MELI",
+      "name": "MercadoLibre, Inc.",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": -0.0018,
+      "currentPrice": 1970.15,
+      "rsi": 37.3297,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.0318,
+      "marketCap": 99881058304
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms, Inc.",
+      "sector": "Communication Services",
+      "ytdReturn": 0.017,
+      "currentPrice": 661.46,
+      "rsi": 49.0209,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": -0.0131,
+      "marketCap": 1673199747072
+    },
+    {
+      "symbol": "MNST",
+      "name": "Monster Beverage Corporation",
+      "sector": "Consumer Defensive",
+      "ytdReturn": 0.0838,
+      "currentPrice": 82.54,
+      "rsi": 67.2668,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0097,
+      "marketCap": 80643325952
+    },
+    {
+      "symbol": "MRNA",
+      "name": "Moderna, Inc.",
+      "sector": "Healthcare",
+      "ytdReturn": 0.3289,
+      "currentPrice": 41.01,
+      "rsi": 51.1225,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0034,
+      "marketCap": 16023985152
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.1013,
+      "currentPrice": 80.28,
+      "rsi": 48.1176,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0818,
+      "marketCap": 69209382912
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "sector": "Technology",
+      "ytdReturn": -0.1518,
+      "currentPrice": 401.14,
+      "rsi": 29.1344,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.019,
+      "marketCap": 2981424267264
+    },
+    {
+      "symbol": "MSTR",
+      "name": "Strategy Inc",
+      "sector": "Technology",
+      "ytdReturn": -0.1414,
+      "currentPrice": 134.93,
+      "rsi": 41.8343,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.2611,
+      "marketCap": 39041269760
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "sector": "Technology",
+      "ytdReturn": 0.2513,
+      "currentPrice": 394.69,
+      "rsi": 57.3076,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0308,
+      "marketCap": 444227256320
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "sector": "Communication Services",
+      "ytdReturn": -0.0966,
+      "currentPrice": 82.2,
+      "rsi": 33.2202,
+      "macdSignal": "bullish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0164,
+      "marketCap": 348683304960
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "sector": "Technology",
+      "ytdReturn": -0.0182,
+      "currentPrice": 185.41,
+      "rsi": 51.1427,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0787,
+      "marketCap": 4514177351680
+    },
+    {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors N.V.",
+      "sector": "Technology",
+      "ytdReturn": 0.0137,
+      "currentPrice": 224.32,
+      "rsi": 46.1268,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0099,
+      "marketCap": 56554348544
+    },
+    {
+      "symbol": "ODFL",
+      "name": "Old Dominion Freight Line, Inc.",
+      "sector": "Industrials",
+      "ytdReturn": 0.2719,
+      "currentPrice": 202.47,
+      "rsi": 73.4263,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0016,
+      "marketCap": 42552745984
+    },
+    {
+      "symbol": "ON",
+      "name": "ON Semiconductor Corporation",
+      "sector": "Technology",
+      "ytdReturn": 0.1499,
+      "currentPrice": 65.2,
+      "rsi": 61.8065,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0333,
+      "marketCap": 26665103360
+    },
+    {
+      "symbol": "ORLY",
+      "name": "O'Reilly Automotive, Inc.",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": 0.0429,
+      "currentPrice": 94.22,
+      "rsi": 43.2906,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0146,
+      "marketCap": 79531483136
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.1118,
+      "currentPrice": 159.32,
+      "rsi": 28.1131,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0294,
+      "marketCap": 111046041600
+    },
+    {
+      "symbol": "PAYX",
+      "name": "Paychex, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.0833,
+      "currentPrice": 98.53,
+      "rsi": 28.6926,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0037,
+      "marketCap": 35369062400
+    },
+    {
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc.",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": -0.0909,
+      "currentPrice": 105.23,
+      "rsi": 43.8392,
+      "macdSignal": "bullish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0365,
+      "marketCap": 149389410304
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo, Inc.",
+      "sector": "Consumer Defensive",
+      "ytdReturn": 0.1987,
+      "currentPrice": 170.49,
+      "rsi": 85.2844,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0177,
+      "marketCap": 233117827072
+    },
+    {
+      "symbol": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "sector": "Financial Services",
+      "ytdReturn": -0.3048,
+      "currentPrice": 40.42,
+      "rsi": 14.172,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.013,
+      "marketCap": 37819052032
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "sector": "Technology",
+      "ytdReturn": -0.206,
+      "currentPrice": 137.34,
+      "rsi": 23.0924,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0076,
+      "marketCap": 146685313024
+    },
+    {
+      "symbol": "REGN",
+      "name": "Regeneron Pharmaceuticals, Inc.",
+      "sector": "Healthcare",
+      "ytdReturn": 0.0119,
+      "currentPrice": 785.51,
+      "rsi": 59.4871,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0246,
+      "marketCap": 83043966976
+    },
+    {
+      "symbol": "ROP",
+      "name": "Roper Technologies, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.166,
+      "currentPrice": 362.42,
+      "rsi": 33.4296,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0325,
+      "marketCap": 39009959936
+    },
+    {
+      "symbol": "ROST",
+      "name": "Ross Stores, Inc.",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": 0.0438,
+      "currentPrice": 190.74,
+      "rsi": 58.7004,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.008,
+      "marketCap": 62033661952
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": 0.1844,
+      "currentPrice": 99.45,
+      "rsi": 67.4341,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0352,
+      "marketCap": 113303379968
+    },
+    {
+      "symbol": "SMCI",
+      "name": "Super Micro Computer, Inc.",
+      "sector": "Technology",
+      "ytdReturn": 0.1105,
+      "currentPrice": 34.38,
+      "rsi": 59.0093,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.1144,
+      "marketCap": 20523868160
+    },
+    {
+      "symbol": "SNPS",
+      "name": "Synopsys, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.1114,
+      "currentPrice": 426.88,
+      "rsi": 34.2507,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0401,
+      "marketCap": 81669914624
+    },
+    {
+      "symbol": "TEAM",
+      "name": "Atlassian Corporation",
+      "sector": "Technology",
+      "ytdReturn": -0.388,
+      "currentPrice": 94.72,
+      "rsi": 21.859,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.0375,
+      "marketCap": 24933273600
+    },
+    {
+      "symbol": "TMUS",
+      "name": "T-Mobile US, Inc.",
+      "sector": "Communication Services",
+      "ytdReturn": -0.011,
+      "currentPrice": 197.39,
+      "rsi": 53.5742,
+      "macdSignal": "bullish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.0221,
+      "marketCap": 222146461696
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "sector": "Consumer Cyclical",
+      "ytdReturn": -0.0615,
+      "currentPrice": 411.11,
+      "rsi": 41.4931,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.035,
+      "marketCap": 1542662258688
+    },
+    {
+      "symbol": "TTD",
+      "name": "The Trade Desk, Inc.",
+      "sector": "Communication Services",
+      "ytdReturn": -0.2824,
+      "currentPrice": 27.04,
+      "rsi": 23.6377,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0305,
+      "marketCap": 13221015552
+    },
+    {
+      "symbol": "TTWO",
+      "name": "Take-Two Interactive Software, Inc.",
+      "sector": "Communication Services",
+      "ytdReturn": -0.2226,
+      "currentPrice": 195.59,
+      "rsi": 18.9122,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0122,
+      "marketCap": 36218466304
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "sector": "Technology",
+      "ytdReturn": 0.2556,
+      "currentPrice": 221.44,
+      "rsi": 72.9528,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": -0.0113,
+      "marketCap": 201205481472
+    },
+    {
+      "symbol": "VRSK",
+      "name": "Verisk Analytics, Inc.",
+      "sector": "Industrials",
+      "ytdReturn": -0.1897,
+      "currentPrice": 179.1,
+      "rsi": 16.0189,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.0302,
+      "marketCap": 25022953472
+    },
+    {
+      "symbol": "VRTX",
+      "name": "Vertex Pharmaceuticals Incorporated",
+      "sector": "Healthcare",
+      "ytdReturn": 0.057,
+      "currentPrice": 477.92,
+      "rsi": 58.1434,
+      "macdSignal": "bearish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": 0.0417,
+      "marketCap": 122534223872
+    },
+    {
+      "symbol": "WBD",
+      "name": "Warner Bros. Discovery, Inc.",
+      "sector": "Communication Services",
+      "ytdReturn": -0.0403,
+      "currentPrice": 27.36,
+      "rsi": 44.7655,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0224,
+      "marketCap": 67838758912
+    },
+    {
+      "symbol": "WDAY",
+      "name": "Workday, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.2083,
+      "currentPrice": 162.92,
+      "rsi": 30.2243,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": 0.0262,
+      "marketCap": 43499638784
+    },
+    {
+      "symbol": "XEL",
+      "name": "Xcel Energy Inc.",
+      "sector": "Utilities",
+      "ytdReturn": 0.0163,
+      "currentPrice": 75.9,
+      "rsi": 52.3607,
+      "macdSignal": "bullish",
+      "aboveMa50": true,
+      "aboveMa200": null,
+      "lastChange": -0.0029,
+      "marketCap": 44897869824
+    },
+    {
+      "symbol": "ZS",
+      "name": "Zscaler, Inc.",
+      "sector": "Technology",
+      "ytdReturn": -0.2414,
+      "currentPrice": 167.33,
+      "rsi": 18.7433,
+      "macdSignal": "bearish",
+      "aboveMa50": false,
+      "aboveMa200": null,
+      "lastChange": -0.0122,
+      "marketCap": 26684315648
+    }
+  ],
+  "rankings": {
+    "topGainers": [
+      {
+        "symbol": "MRNA",
+        "name": "Moderna, Inc.",
+        "sector": "Healthcare",
+        "ytdReturn": 0.3289,
+        "currentPrice": 41.01,
+        "rsi": 51.1225,
+        "macdSignal": "bearish",
+        "aboveMa50": true,
+        "aboveMa200": null,
+        "lastChange": 0.0034,
+        "marketCap": 16023985152
+      },
+      {
+        "symbol": "INTC",
+        "name": "Intel Corporation",
+        "sector": "Technology",
+        "ytdReturn": 0.2847,
+        "currentPrice": 50.59,
+        "rsi": 59.6543,
+        "macdSignal": "bearish",
+        "aboveMa50": true,
+        "aboveMa200": null,
+        "lastChange": 0.0487,
+        "marketCap": 252706078720
+      },
+      {
+        "symbol": "ODFL",
+        "name": "Old Dominion Freight Line, Inc.",
+        "sector": "Industrials",
+        "ytdReturn": 0.2719,
+        "currentPrice": 202.47,
+        "rsi": 73.4263,
+        "macdSignal": "bullish",
+        "aboveMa50": true,
+        "aboveMa200": null,
+        "lastChange": 0.0016,
+        "marketCap": 42552745984
+      },
+      {
+        "symbol": "TXN",
+        "name": "Texas Instruments Incorporated",
+        "sector": "Technology",
+        "ytdReturn": 0.2556,
+        "currentPrice": 221.44,
+        "rsi": 72.9528,
+        "macdSignal": "bullish",
+        "aboveMa50": true,
+        "aboveMa200": null,
+        "lastChange": -0.0113,
+        "marketCap": 201205481472
+      },
+      {
+        "symbol": "GILD",
+        "name": "Gilead Sciences, Inc.",
+        "sector": "Healthcare",
+        "ytdReturn": 0.2541,
+        "currentPrice": 152.5,
+        "rsi": 82.194,
+        "macdSignal": "bullish",
+        "aboveMa50": true,
+        "aboveMa200": null,
+        "lastChange": 0.021,
+        "marketCap": 189223059456
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron Technology, Inc.",
+        "sector": "Technology",
+        "ytdReturn": 0.2513,
+        "currentPrice": 394.69,
+        "rsi": 57.3076,
+        "macdSignal": "bearish",
+        "aboveMa50": true,
+        "aboveMa200": null,
+        "lastChange": 0.0308,
+        "marketCap": 444227256320
+      },
+      {
+        "symbol": "BKR",
+        "name": "Baker Hughes Company",
+        "sector": "Energy",
+        "ytdReturn": 0.2499,
+        "currentPrice": 58.92,
+        "rsi": 70.3735,
+        "macdSignal": "bullish",
+        "aboveMa50": true,
+        "aboveMa200": null,
+        "lastChange": 0.0272,
+        "marketCap": 58226892800
+      },
+      {
+        "symbol": "LRCX",
+        "name": "Lam Research Corporation",
+        "sector": "Technology",
+        "ytdReturn": 0.2483,
+        "currentPrice": 231.01,
+        "rsi": 57.9547,
+        "macdSignal": "bearish",
+        "aboveMa50": true,
+        "aboveMa200": null,
+        "lastChange": 0.083,
+        "marketCap": 290155462656
+      },
+      {
+        "symbol": "HON",
+        "name": "Honeywell International Inc.",
+        "sector": "Industrials",
+        "ytdReturn": 0.217,
+        "currentPrice": 238.38,
+        "rsi": 76.8189,
+        "macdSignal": "bullish",
+        "aboveMa50": true,
+        "aboveMa200": null,
+        "lastChange": 0.0194,
+        "marketCap": 160637059072
+      },
+      {
+        "symbol": "ASML",
+        "name": "ASML Holding N.V.",
+        "sector": "Technology",
+        "ytdReturn": 0.2142,
+        "currentPrice": 1413.01,
+        "rsi": 61.1563,
+        "macdSignal": "bearish",
+        "aboveMa50": true,
+        "aboveMa200": null,
+        "lastChange": 0.0466,
+        "marketCap": 548456562688
+      }
+    ],
+    "topLosers": [
+      {
+        "symbol": "TEAM",
+        "name": "Atlassian Corporation",
+        "sector": "Technology",
+        "ytdReturn": -0.388,
+        "currentPrice": 94.72,
+        "rsi": 21.859,
+        "macdSignal": "bearish",
+        "aboveMa50": false,
+        "aboveMa200": null,
+        "lastChange": -0.0375,
+        "marketCap": 24933273600
+      },
+      {
+        "symbol": "APP",
+        "name": "AppLovin Corporation",
+        "sector": "Communication Services",
+        "ytdReturn": -0.3422,
+        "currentPrice": 406.72,
+        "rsi": 29.8067,
+        "macdSignal": "bearish",
+        "aboveMa50": false,
+        "aboveMa200": null,
+        "lastChange": 0.0839,
+        "marketCap": 137573007360
+      },
+      {
+        "symbol": "PYPL",
+        "name": "PayPal Holdings, Inc.",
+        "sector": "Financial Services",
+        "ytdReturn": -0.3048,
+        "currentPrice": 40.42,
+        "rsi": 14.172,
+        "macdSignal": "bearish",
+        "aboveMa50": false,
+        "aboveMa200": null,
+        "lastChange": 0.013,
+        "marketCap": 37819052032
+      },
+      {
+        "symbol": "COIN",
+        "name": "Coinbase Global, Inc.",
+        "sector": "Financial Services",
+        "ytdReturn": -0.3019,
+        "currentPrice": 165.12,
+        "rsi": 28.3561,
+        "macdSignal": "bearish",
+        "aboveMa50": false,
+        "aboveMa200": null,
+        "lastChange": 0.13,
+        "marketCap": 44525862912
+      },
+      {
+        "symbol": "INTU",
+        "name": "Intuit Inc.",
+        "sector": "Technology",
+        "ytdReturn": -0.2937,
+        "currentPrice": 443.77,
+        "rsi": 23.9486,
+        "macdSignal": "bearish",
+        "aboveMa50": false,
+        "aboveMa200": null,
+        "lastChange": 0.0204,
+        "marketCap": 123545567232
+      },
+      {
+        "symbol": "CEG",
+        "name": "Constellation Energy Corporation",
+        "sector": "Utilities",
+        "ytdReturn": -0.2862,
+        "currentPrice": 261.42,
+        "rsi": 31.5249,
+        "macdSignal": "bearish",
+        "aboveMa50": false,
+        "aboveMa200": null,
+        "lastChange": 0.0581,
+        "marketCap": 94709874688
+      },
+      {
+        "symbol": "TTD",
+        "name": "The Trade Desk, Inc.",
+        "sector": "Communication Services",
+        "ytdReturn": -0.2824,
+        "currentPrice": 27.04,
+        "rsi": 23.6377,
+        "macdSignal": "bearish",
+        "aboveMa50": false,
+        "aboveMa200": null,
+        "lastChange": 0.0305,
+        "marketCap": 13221015552
+      },
+      {
+        "symbol": "ZS",
+        "name": "Zscaler, Inc.",
+        "sector": "Technology",
+        "ytdReturn": -0.2414,
+        "currentPrice": 167.33,
+        "rsi": 18.7433,
+        "macdSignal": "bearish",
+        "aboveMa50": false,
+        "aboveMa200": null,
+        "lastChange": -0.0122,
+        "marketCap": 26684315648
+      },
+      {
+        "symbol": "CSGP",
+        "name": "CoStar Group, Inc.",
+        "sector": "Real Estate",
+        "ytdReturn": -0.2346,
+        "currentPrice": 50.28,
+        "rsi": 23.7223,
+        "macdSignal": "bearish",
+        "aboveMa50": false,
+        "aboveMa200": null,
+        "lastChange": -0.0139,
+        "marketCap": 21309808640
+      },
+      {
+        "symbol": "TTWO",
+        "name": "Take-Two Interactive Software, Inc.",
+        "sector": "Communication Services",
+        "ytdReturn": -0.2226,
+        "currentPrice": 195.59,
+        "rsi": 18.9122,
+        "macdSignal": "bearish",
+        "aboveMa50": false,
+        "aboveMa200": null,
+        "lastChange": 0.0122,
+        "marketCap": 36218466304
+      }
+    ]
+  },
+  "sectorStats": {
+    "Basic Materials": {
+      "avgYtdReturn": 0.0446,
+      "count": 1,
+      "bestPerformer": {
+        "symbol": "LIN",
+        "ytdReturn": 0.0446
+      },
+      "worstPerformer": {
+        "symbol": "LIN",
+        "ytdReturn": 0.0446
+      }
+    },
+    "Communication Services": {
+      "avgYtdReturn": -0.0583,
+      "count": 12,
+      "bestPerformer": {
+        "symbol": "CMCSA",
+        "ytdReturn": 0.1464
+      },
+      "worstPerformer": {
+        "symbol": "APP",
+        "ytdReturn": -0.3422
+      }
+    },
+    "Consumer Cyclical": {
+      "avgYtdReturn": -0.0404,
+      "count": 12,
+      "bestPerformer": {
+        "symbol": "SBUX",
+        "ytdReturn": 0.1844
+      },
+      "worstPerformer": {
+        "symbol": "LULU",
+        "ytdReturn": -0.1801
+      }
+    },
+    "Consumer Defensive": {
+      "avgYtdReturn": 0.0856,
+      "count": 8,
+      "bestPerformer": {
+        "symbol": "PEP",
+        "ytdReturn": 0.1987
+      },
+      "worstPerformer": {
+        "symbol": "DLTR",
+        "ytdReturn": -0.0303
+      }
+    },
+    "Energy": {
+      "avgYtdReturn": 0.1729,
+      "count": 2,
+      "bestPerformer": {
+        "symbol": "BKR",
+        "ytdReturn": 0.2499
+      },
+      "worstPerformer": {
+        "symbol": "FANG",
+        "ytdReturn": 0.0958
+      }
+    },
+    "Financial Services": {
+      "avgYtdReturn": -0.3034,
+      "count": 2,
+      "bestPerformer": {
+        "symbol": "COIN",
+        "ytdReturn": -0.3019
+      },
+      "worstPerformer": {
+        "symbol": "PYPL",
+        "ytdReturn": -0.3048
+      }
+    },
+    "Healthcare": {
+      "avgYtdReturn": 0.0572,
+      "count": 11,
+      "bestPerformer": {
+        "symbol": "MRNA",
+        "ytdReturn": 0.3289
+      },
+      "worstPerformer": {
+        "symbol": "ISRG",
+        "ytdReturn": -0.1314
+      }
+    },
+    "Industrials": {
+      "avgYtdReturn": 0.1023,
+      "count": 6,
+      "bestPerformer": {
+        "symbol": "ODFL",
+        "ytdReturn": 0.2719
+      },
+      "worstPerformer": {
+        "symbol": "VRSK",
+        "ytdReturn": -0.1897
+      }
+    },
+    "Real Estate": {
+      "avgYtdReturn": -0.2346,
+      "count": 1,
+      "bestPerformer": {
+        "symbol": "CSGP",
+        "ytdReturn": -0.2346
+      },
+      "worstPerformer": {
+        "symbol": "CSGP",
+        "ytdReturn": -0.2346
+      }
+    },
+    "Technology": {
+      "avgYtdReturn": -0.014,
+      "count": 40,
+      "bestPerformer": {
+        "symbol": "INTC",
+        "ytdReturn": 0.2847
+      },
+      "worstPerformer": {
+        "symbol": "TEAM",
+        "ytdReturn": -0.388
+      }
+    },
+    "Utilities": {
+      "avgYtdReturn": -0.0544,
+      "count": 4,
+      "bestPerformer": {
+        "symbol": "AEP",
+        "ytdReturn": 0.0431
+      },
+      "worstPerformer": {
+        "symbol": "CEG",
+        "ytdReturn": -0.2862
+      }
+    }
+  },
+  "marketOverview": {
+    "avgYtdReturn": -0.0049,
+    "medianYtdReturn": 0.0119,
+    "bullishCount": 35,
+    "bearishCount": 64,
+    "aboveMa50Count": 51,
+    "aboveMa200Count": 0,
+    "totalStocks": 99,
+    "analysisDate": "2026-02-07"
+  },
+  "overbought": [
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo, Inc.",
+      "rsi": 85.2844,
+      "ytdReturn": 0.1987
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "rsi": 82.194,
+      "ytdReturn": 0.2541
+    },
+    {
+      "symbol": "CCEP",
+      "name": "Coca-Cola Europacific Partners PLC",
+      "rsi": 78.7146,
+      "ytdReturn": 0.106
+    },
+    {
+      "symbol": "HON",
+      "name": "Honeywell International Inc.",
+      "rsi": 76.8189,
+      "ytdReturn": 0.217
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "rsi": 75.5549,
+      "ytdReturn": 0.173
+    },
+    {
+      "symbol": "ODFL",
+      "name": "Old Dominion Freight Line, Inc.",
+      "rsi": 73.4263,
+      "ytdReturn": 0.2719
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Corporation",
+      "rsi": 73.1793,
+      "ytdReturn": 0.1464
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "rsi": 72.9528,
+      "ytdReturn": 0.2556
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "rsi": 72.4486,
+      "ytdReturn": 0.1155
+    },
+    {
+      "symbol": "FAST",
+      "name": "Fastenal Company",
+      "rsi": 70.8978,
+      "ytdReturn": 0.1868
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "rsi": 70.6182,
+      "ytdReturn": 0.1732
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes Company",
+      "rsi": 70.3735,
+      "ytdReturn": 0.2499
+    }
+  ],
+  "oversold": [
+    {
+      "symbol": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "rsi": 14.172,
+      "ytdReturn": -0.3048
+    },
+    {
+      "symbol": "VRSK",
+      "name": "Verisk Analytics, Inc.",
+      "rsi": 16.0189,
+      "ytdReturn": -0.1897
+    },
+    {
+      "symbol": "ZS",
+      "name": "Zscaler, Inc.",
+      "rsi": 18.7433,
+      "ytdReturn": -0.2414
+    },
+    {
+      "symbol": "TTWO",
+      "name": "Take-Two Interactive Software, Inc.",
+      "rsi": 18.9122,
+      "ytdReturn": -0.2226
+    },
+    {
+      "symbol": "TEAM",
+      "name": "Atlassian Corporation",
+      "rsi": 21.859,
+      "ytdReturn": -0.388
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "rsi": 23.0924,
+      "ytdReturn": -0.206
+    },
+    {
+      "symbol": "DASH",
+      "name": "DoorDash, Inc.",
+      "rsi": 23.3199,
+      "ytdReturn": -0.1698
+    },
+    {
+      "symbol": "ADP",
+      "name": "Automatic Data Processing, Inc.",
+      "rsi": 23.6085,
+      "ytdReturn": -0.0851
+    },
+    {
+      "symbol": "TTD",
+      "name": "The Trade Desk, Inc.",
+      "rsi": 23.6377,
+      "ytdReturn": -0.2824
+    },
+    {
+      "symbol": "CSGP",
+      "name": "CoStar Group, Inc.",
+      "rsi": 23.7223,
+      "ytdReturn": -0.2346
+    },
+    {
+      "symbol": "INTU",
+      "name": "Intuit Inc.",
+      "rsi": 23.9486,
+      "ytdReturn": -0.2937
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "rsi": 25.1929,
+      "ytdReturn": -0.1627
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "rsi": 26.7453,
+      "ytdReturn": -0.1948
+    },
+    {
+      "symbol": "ILMN",
+      "name": "Illumina, Inc.",
+      "rsi": 27.9395,
+      "ytdReturn": -0.1089
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks, Inc.",
+      "rsi": 28.1131,
+      "ytdReturn": -0.1118
+    },
+    {
+      "symbol": "COIN",
+      "name": "Coinbase Global, Inc.",
+      "rsi": 28.3561,
+      "ytdReturn": -0.3019
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "rsi": 28.6339,
+      "ytdReturn": -0.0714
+    },
+    {
+      "symbol": "PAYX",
+      "name": "Paychex, Inc.",
+      "rsi": 28.6926,
+      "ytdReturn": -0.0833
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "rsi": 29.1344,
+      "ytdReturn": -0.1518
+    },
+    {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical, Inc.",
+      "rsi": 29.4373,
+      "ytdReturn": -0.1314
+    },
+    {
+      "symbol": "APP",
+      "name": "AppLovin Corporation",
+      "rsi": 29.8067,
+      "ytdReturn": -0.3422
+    }
+  ]
+}
